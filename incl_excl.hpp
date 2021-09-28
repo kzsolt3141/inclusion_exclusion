@@ -1,6 +1,6 @@
 #pragma once
 
-#include<stdint.h>
+#include<cstdint>
 
 struct box{
     int16_t x;
